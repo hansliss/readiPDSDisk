@@ -1,5 +1,5 @@
 # readiPDSDisk
-Read an iPDS disk image (655360 bytes), list directory info and extract all files
+Read an iNTEL iPDS disk image (655360 bytes), list directory info and extract all files
 
 This is incredibly crude, ugly and uncommented. But it seems to do its job as far as I can tell. Image file is read on stdin and files are
 created in current directory.
